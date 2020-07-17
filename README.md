@@ -1,7 +1,7 @@
 # flutter-intensive
 (Flutter) - Criação de vários apps utilizando o framework hibrido flutter.
 
-![flutter](https://plugins.jetbrains.com/files/9212/91666/icon/pluginIcon.svg)
+![flutter](https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg)
 
 <hr/>
 
