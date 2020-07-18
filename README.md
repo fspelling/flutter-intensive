@@ -6,4 +6,4 @@
 <hr/>
 
 ## Peaple Count
-> Additional information or tagline
+> App que simula a entrada e saida de clientes de um restaurante, para informar se o restaurante esta lotado ou nao.
