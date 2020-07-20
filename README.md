@@ -7,3 +7,9 @@
 
 ## Peaple Count
 > App que simula a entrada e saida de clientes de um restaurante, para informar se o restaurante esta lotado ou nao.
+
+## Calc IMC
+> App que calcula o indice da massa corporal do individuo.
+
+## Convert Money
+> App que converte a moedas de real, dolar e euro.
