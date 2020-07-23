@@ -16,3 +16,6 @@
 
 ## Task List
 > App de cadastro de tarefas com checks.
+
+## Giphy Search
+> App de busca de gifs com possibilidades de serem compartilhadas.
