@@ -19,3 +19,6 @@
 
 ## Giphy Search
 > App de busca de gifs com possibilidades de serem compartilhadas.
+
+## Schendule Contacts
+> App de cadastro de contatos com utilizacao de plugins referente camera e call do telefone.
