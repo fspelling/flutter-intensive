@@ -22,3 +22,6 @@
 
 ## Schendule Contacts
 > App de cadastro de contatos com utilizacao de plugins referente camera e call do telefone.
+
+## Chat
+> App que simula um chat com envio de mensagens e imagens com um layout semelhante do whatsapp.
