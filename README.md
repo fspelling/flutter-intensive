@@ -25,3 +25,6 @@
 
 ## Chat
 > App que simula um chat com envio de mensagens e imagens com um layout semelhante do whatsapp.
+
+## Loja Virtual
+> App ecommerce que realiza compras de produtos com carrinhos, simulando pedidos, etc.
